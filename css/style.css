@@ -1,0 +1,30 @@
+header {
+  /* background-color: chartreuse; */
+}
+
+header > .logo {
+  /* background-color: aqua; */
+}
+
+nav {
+  /* background-color: aquamarine; */
+}
+
+nav > .links {
+}
+
+nav > .signup {
+  /* background-color: brown; */
+}
+
+section {
+  /* background-color: bisque; */
+}
+
+.container {
+  /* background-color: blueviolet; */
+}
+
+.mainimg {
+  /* background-color: cadetblue; */
+}
