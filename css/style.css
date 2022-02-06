@@ -1,30 +1,44 @@
+body {
+  margin: 0;
+  background-color: #f8f8f8;
+}
 header {
-  /* background-color: chartreuse; */
+  background-color: chartreuse;
+  width: 800px;
+  margin-left: calc(50% - 400px);
+  display: inline-block;
 }
 
-header > .logo {
+header > img {
   /* background-color: aqua; */
+  float: left;
 }
 
 nav {
   /* background-color: aquamarine; */
+  float: right;
 }
 
-nav > .links {
+a {
 }
 
-nav > .signup {
-  /* background-color: brown; */
+main {
+  background-color: bisque;
+  display: inline-block;
+  width: 800px;
+  margin-left: calc(50% - 400px);
 }
 
-section {
-  /* background-color: bisque; */
-}
-
-.container {
+div {
   /* background-color: blueviolet; */
+  float: left;
+}
+h1 {
 }
 
-.mainimg {
-  /* background-color: cadetblue; */
+p {
+}
+
+main > img {
+  float: right;
 }
